@@ -1,2 +1,2 @@
 # emacs
-Some personnal emacs file
+Some personnal emacs files
